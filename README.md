@@ -15,8 +15,7 @@ int main(int argc, char *argv[])
 }
 ```
 
-
-
+Action: 
 ```
 void DogWalker::walkSomeDogs()
 {
