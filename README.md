@@ -47,7 +47,9 @@ void DogWalker::LogDogBark(QString barkString)
 
 ```
 
-// How this executes
+
+###  How this executes
+```
 /*
 Start Logging Dogs          
 Telling dog 1 to bark
@@ -57,3 +59,4 @@ Telling dog 2 to bark
 Ending DogWalker::walkSomeDogs
 
 */
+```
